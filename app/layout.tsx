@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "Sthiba Events",
   description: "A plartfom for Sthiba Events, event management.",
   icons: {
-    icon: '' 
+      icon: '/assets/images/logo.svg'
   }
 };
 
